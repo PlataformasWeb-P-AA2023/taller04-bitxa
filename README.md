@@ -1,5 +1,5 @@
 # taller04
-
+## Joel Romero y Roger Criollo
 * Crear una base de datos en couchdb llamada **instituciones**; con la información del archivo **instituciones_0007.json**
 * Generar en la base de datos una vista que tenga la siguiente estructura en el **emit**
 ```
