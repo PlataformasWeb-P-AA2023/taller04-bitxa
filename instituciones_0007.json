@@ -1,4 +1,5 @@
-[
+{
+  "docs":[
     {
         "AMIE":"07H00408",
         "Nombre_Institucion":"BATALLON CAYAMBE N\u00daMERO 3",
@@ -10076,3 +10077,4 @@
         "Zona_Administrativa":"Zona 7"
     }
 ]
+}
