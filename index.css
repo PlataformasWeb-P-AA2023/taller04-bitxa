@@ -1,0 +1,62 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:flex-start;
+}
+
+section .option {
+    width: 100vh;
+    height: 5vh;
+    margin: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+  margin-top: 2vh;
+  width: 30vh;
+  height: 10vh;
+  border-style: none;
+  border-radius: 10px;
+  border-style: solid;
+}
+
+button:hover {
+  color: white;
+  background-color: black;
+}
+
+input {
+  height: 50%;
+  text-transform: uppercase; 
+}
+
+table thead th {
+    font-weight: bold;
+    background-color: #ddd;
+  }
+
+  table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  table th, table td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
